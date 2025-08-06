@@ -4,7 +4,7 @@ Atualização do projeto de p2
 Structured project implementation of an Event Planning Management System for the Software Project subject.
 How to execute?
 
-    Download and run the file main.py
+    Download and run the file main.py (evento-ps.py)
 
 Implemented Features
  Event Management
