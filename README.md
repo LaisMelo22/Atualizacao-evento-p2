@@ -7,7 +7,7 @@ How to execute?
     Download and run the file main.py
 
 Implemented Features
-🗓 Event Management
+ Event Management
 
     Class Evento
 
